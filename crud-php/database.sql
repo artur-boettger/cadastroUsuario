@@ -9,3 +9,5 @@ CREATE TABLE `users` (
   `email` varchar(100) NOT NULL,
   PRIMARY KEY  (`id`)
 );
+
+-- abrindo o mysql workbench e fazendo o select * from test.users da para visualizar os dados atualizados
